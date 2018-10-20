@@ -1,0 +1,15 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+img{
+    width: 50px;
+}
+.wrapper{
+    width: 45%;
+    height: auto;
+    margin:20px auto;
+}
+
+
